@@ -132,7 +132,6 @@ For more detailed information on SVG structure and elements, you can refer to th
 <!-- Rechteck -->
 
 <rect x="-50" y="50" width="100" height="50" fill="blue"/>
-
 </svg>
 </summary>
     <code>
